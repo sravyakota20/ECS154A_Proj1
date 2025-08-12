@@ -3,7 +3,7 @@
 Student: Sravya Kota(919987625)
 
 ## Project Status
-This the current status of the project ...
+Started Part 1 of the project
 
 ## Known Issues
 The project fails to function properly in ...
