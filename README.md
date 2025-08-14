@@ -12,6 +12,8 @@ The project fails to function properly in ...
 * [Build an XOR gate from AND/NOT](https://electronics.stackexchange.com/questions/487529/build-an-xor-gate-from-and-not)
 * [Some other link](https://stackoverflow.com)
 
+* While working on the equity comparison (E) part of the circuit, I initially used an XOR gate instead of an XNOR gate. I realized the issue after watching this video (https://www.youtube.com/watch?v=Q0Mu3pgd1Ak), where the presenter used an XNOR gate. Since I didn’t want to disturb the existing circuit, I added a NOT gate after the XOR gate to create an XNOR gate.
+
 ## Generative AI Use
 I used ChatGPT for Prompt 1, and ZZZZZ for Prompt 2....
 
