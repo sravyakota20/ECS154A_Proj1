@@ -3,10 +3,9 @@
 Student: Sravya Kota(919987625)
 
 ## Project Status
-Started Part 1 of the project
-
+Finished part 2 of the project (somewhat)
 ## Known Issues
-The project fails to function properly in ...
+Project 2 has a small bug where the value of the gray code for 0xA and 0xB got interchanged as there are many wires I am unable to tell where I went wrong, I checked the connection for g03(or gate) but don't seem to find any error
 
 ## References
 * [Build an XOR gate from AND/NOT](https://electronics.stackexchange.com/questions/487529/build-an-xor-gate-from-and-not)
