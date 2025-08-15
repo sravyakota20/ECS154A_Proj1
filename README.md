@@ -4,10 +4,10 @@ Student: Sravya Kota(919987625)
 
 ## Project Status
 * Finished Part 1 of the project
-* Finished Part 2 of the project (somewhat)
+* Finished Part 2 of the project (fixed bug)
 * Finished Part 3 of the project  (has bugs as well) Update (Fixed bug now works there was one wrong connection)
 ## Known Issues
-* Part 2 has a small bug where the value of the gray code for 0xA and 0xB got interchanged as there are many wires I am unable to tell where I went wrong, I checked the connection for g03(or gate) but don't seem to find any error
+* Part 2 has a small bug where the value of the gray code for 0xA and 0xB got interchanged as there are many wires I am unable to tell where I went wrong, I checked the connection for g03(or gate) but don't seem to find any error (Went through wiring fixed the issue)
 * In Part 3 the bug is the number 7 doesn't light up for some reason the rest of the ones do (Bug Fixed)
 
 ## References
